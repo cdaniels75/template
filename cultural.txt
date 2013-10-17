@@ -13,7 +13,7 @@
 		<ul id="nav">
 			<li><a href="index.html">home</a></li>
 			<li><a href="lived.html">lived <br />experiences</a></li>
-			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="cultural.html">cultural<br />analysis</a></li>
 			<li><a href="formal.html">formal <br />research</a></li>
 			<li><a href="remix.html">remix</a></li>
 			<li><a href="course.html">course <br />retrospective</a></li>
@@ -21,8 +21,8 @@
 		</ul>
 		</header>
 		<main>
-			<h1>about me</h1>
-			<p>blah, blah, blah...</p>
+			<h1>this page is</h1>
+			<p></p>
 		</main>
 		<footer>
 		<p>&copy; 2013 [Katie Obriecht]</p>
